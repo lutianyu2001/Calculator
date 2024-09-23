@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="result">Result</string>
+    <string name="err_divide_by_zero">ERROR: Cannot divide by zero!</string>
+    <string name="err_enter_valid_numbers">ERROR: Please enter integers!</string>
+    <string name="exc_invalid_operator">Invalid operator</string>
+</resources>
